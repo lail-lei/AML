@@ -1,2 +1,2 @@
-# AML
+# ML
 Repository for Machine Learning Projects
